@@ -1,6 +1,6 @@
 # wave-simulator
 
-This is a simple program made in Unity to visualize waves and wave interference. Go to https://jacob-dentes.github.io/wave-simulator/ to use the program.
+This is a simple program made in Unity to visualize waves and wave interference. Go to https://jacob-dentes.github.io/wave-simulator/ to use the program. The resolution is fixed by default but there is a button in the bottom right to go fullscreen (press escape to exit fullscreen mode).
 
 Hold right click or left shift and move your mouse to rotate the camera around the center.
 
