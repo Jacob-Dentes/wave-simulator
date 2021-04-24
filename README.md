@@ -12,15 +12,15 @@ Press space or click the pause/play button to start and stop the program. You ca
 
 Use the sliders on the left to change the wave's properties (this will only change new waves, not existing waves).
 
-  Amplitude will influence the amplitude of the wave in units.
+   Amplitude will influence the amplitude of the wave in units.
   
-  Period will influence the period of the wave (in seconds).
+   Period will influence the period of the wave (in seconds).
   
-  Speed will influence the speed of the wave (in units per second).
+   Speed will influence the speed of the wave (in units per second).
   
-  Resistance will influence how fast the wave dissipates as it travels from the center (in units of amplitude per second).
+   Resistance will influence how fast the wave dissipates as it travels from the center (in units of amplitude per second).
   
-  Life time will influence how long the wave will last (in seconds). Pulling the slider all the way to the right will make it last indefinitely.
+   Life time will influence how long the wave will last (in seconds). Pulling the slider all the way to the right will make it last indefinitely.
   
 Press the "r" key or the generate button to create a fresh plane and end all current waves
 
