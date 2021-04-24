@@ -22,7 +22,7 @@ Use the sliders on the left to change the wave's properties (this will only chan
   
     * Life time will influence how long the wave will last (in seconds). Pulling the slider all the way to the right will make it last indefinitely.
   
-Press the "r" key or the generate button to create a fresh plane and end all current waves
+Press the "r" key or the generate button to create a fresh plane and end all current waves.
 
 Use the sliders on the right to change the plane (this will only change the plane when a fresh plane is created, it will not change the current plane).
 
@@ -32,6 +32,6 @@ Use the sliders on the right to change the plane (this will only change the plan
   
     * Spacing will change the distance between each particle.
   
-  *Note that the number of particles is the primary factor determining the performance of the program, and there may be framerate issues with larger numbers of particles*
+  *Note that the number of particles is the primary factor determining the performance of the program, and there may be framerate issues with larger numbers of particles.*
   
 Thank you for your interest in my project!
